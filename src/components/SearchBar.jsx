@@ -36,7 +36,7 @@ function SearchBar() {
   return (
     <div className={styles.searchbar}>
       <Typography variant="h1" className={styles.title}>
-        Image Gallery
+        Photo Phactory
       </Typography>
       <Paper className={styles.paper}>
         <InputBase
